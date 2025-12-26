@@ -1,0 +1,291 @@
+{
+  "hero": {
+    "title1": "Matrix Business",
+    "title2": "not complicated anymore",
+    "description": "Multilevel Matrix business effortlessly with our all-in-one, easy-to-setup solution for marketers.",
+    "btn1": "GET STARTED",
+    "btn2": "INVEST NOW",
+    "floatImage1": "https://i.ibb.co/DfQJBvdF/29932.jpg",
+    "floatImage2": "https://i.ibb.co.com/wNjgG8H8/1985.jpg"
+  },
+  "about": {
+    "title": "Make Best Invest Business Through Us",
+    "subtitle": "Invest smartly and grow your business with Income 25 BD.",
+    "description": "Start your network marketing journey with Income 25 BD. Our all-in-one platform offers easy setup, referral systems, and secure payment options to help your business thrive and scale effortlessly.",
+    "btnText": "INVEST NOW",
+    "image": "https://i.ibb.co.com/Zz22549x/2130.jpg"
+  },
+  "statistics": {
+    "title": "Our Statistics",
+    "description": "Unleashing Success: Track Record of Growth, Engagement, and Profits in Network Marketing with Income 25 BD.",
+    "items": [
+      {
+        "label": "Total Clients",
+        "value": "200K",
+        "icon": "https://cdn-icons-png.flaticon.com/512/681/681494.png"
+      },
+      {
+        "label": "Total Deposit",
+        "value": "20000 USD",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2489/2489756.png"
+      },
+      {
+        "label": "Total Withdraw",
+        "value": "300M",
+        "icon": "https://cdn-icons-png.flaticon.com/512/10438/10438676.png"
+      },
+      {
+        "label": "Company Run",
+        "value": "323Y",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2344/2344132.png"
+      }
+    ]
+  },
+
+  "howStarted": {
+    "title": "How To Get Started",
+    "subtitle": "Quick and Easy Steps to Launch Your Network Marketing Business with Income 25 BD",
+    "steps": [
+      {
+        "id": 1,
+        "title": "Sign Up",
+        "description": "Create an account and choose your business plan to get started with Income 25 BD.",
+        "icon": "https://cdn-icons-png.flaticon.com/512/748/748137.png"
+      },
+      {
+        "id": 2,
+        "title": "Set Up Your Profile",
+        "description": "Complete your profile, customize your platform, and configure settings for a seamless experience.",
+        "icon": "https://cdn-icons-png.flaticon.com/512/1077/1077063.png"
+      },
+      {
+        "id": 3,
+        "title": "Invite Referrals",
+        "description": "Use the referral system to grow your downline and expand your network marketing business.",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2610/2610260.png"
+      },
+      {
+        "id": 4,
+        "title": "Start Earning",
+        "description": "Track commissions, manage earnings, and withdraw funds easily through various secure payment options.",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2489/2489756.png"
+      }
+    ]
+  },
+
+  "features": {
+  "title": "Our Feature",
+  "description": "Powerful Features to Simplify and Accelerate Your Network Marketing Business with Income 25 BD's All-in-One Solution.",
+  "items": [
+    {
+      "title": "Payment Options",
+      "description": "Payments via cards, cryptocurrencies, and mobile money.",
+      "icon": "https://cdn-icons-png.flaticon.com/512/2695/2695971.png"
+    },
+    {
+      "title": "Customer Support",
+      "description": "Get 24/7 expert assistance for setup, troubleshooting, and customization.",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1067/1067566.png"
+    },
+    {
+      "title": "Deposit Limit",
+      "description": "Set flexible deposit limits to manage transactions securely.",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1022/1022313.png"
+    },
+    {
+      "title": "2FA Security",
+      "description": "Account protection with two-factor authentication for secure access.",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1022/1022313.png"
+    },
+    {
+      "title": "Referral Bonus",
+      "description": "Earn rewards for every successful referral and grow your network.",
+      "icon": "https://cdn-icons-png.flaticon.com/512/2535/2535072.png"
+    },
+    {
+      "title": "Epin Recharge",
+      "description": "Securely recharge your account with unique E-PINs.",
+      "icon": "https://cdn-icons-png.flaticon.com/512/10438/10438676.png"
+    }
+  ]
+},
+  
+  "plans": [
+  {
+    "name": "STANDARD",
+    "price": "100",
+    "referralBonus": "10",
+    "levels": [
+      { "id": "L1", "calc": "$20 X 3", "total": "$60" },
+      { "id": "L2", "calc": "$15 X 9", "total": "$135" },
+      { "id": "L3", "calc": "$13 X 27", "total": "$351" },
+      { "id": "L4", "calc": "$10 X 81", "total": "$810" }
+    ],
+    "totalCommission": "1,356.00",
+    "returns": "1356%"
+  },
+  {
+    "name": "START",
+    "price": "500",
+    "referralBonus": "50",
+    "levels": [
+      { "id": "L1", "calc": "$140 X 3", "total": "$420" },
+      { "id": "L2", "calc": "$100 X 9", "total": "$900" },
+      { "id": "L3", "calc": "$80 X 27", "total": "$2160" },
+      { "id": "L4", "calc": "$60 X 81", "total": "$4860" }
+    ],
+    "totalCommission": "8,340.00",
+    "returns": "1668%"
+  },
+  {
+    "name": "PREMIUM",
+    "price": "1000",
+    "referralBonus": "100",
+    "levels": [
+      { "id": "L1", "calc": "$300 X 3", "total": "$900" },
+      { "id": "L2", "calc": "$200 X 9", "total": "$1800" },
+      { "id": "L3", "calc": "$175 X 27", "total": "$4725" },
+      { "id": "L4", "calc": "$150 X 81", "total": "$12150" }
+    ],
+    "totalCommission": "19,575.00",
+    "returns": "1957%"
+  }
+],
+"testimonials": {
+  "title": "WHAT OUR CLIENT'S SAY",
+  "items": [
+    { "id": 1, "name": "Victoria Linton", "feedback": "Amazing platform for investment!", "avatar": "https://i.pravatar.cc/150?u=1" },
+    { "id": 2, "name": "Dmitri Wood", "feedback": "The referral system is top-notch.", "avatar": "https://i.pravatar.cc/150?u=2" },
+    { "id": 3, "name": "Fanny Dean", "feedback": "Best ROI I have ever seen.", "avatar": "https://i.pravatar.cc/150?u=3" },
+    { "id": 4, "name": "Nelly Vane", "feedback": "Secure and very easy to use.", "avatar": "https://i.pravatar.cc/150?u=4" },
+    { "id": 5, "name": "Michael J.", "feedback": "Customer support is very helpful.", "avatar": "https://i.pravatar.cc/150?u=5" },
+    { "id": 6, "name": "Sarah Smith", "feedback": "I love the 3D dashboard design!", "avatar": "https://i.pravatar.cc/150?u=6" },
+    { "id": 7, "name": "John Doe", "feedback": "Seamless withdrawals every time.", "avatar": "https://i.pravatar.cc/150?u=7" },
+    { "id": 8, "name": "Alex Carry", "feedback": "Highly recommended for beginners.", "avatar": "https://i.pravatar.cc/150?u=8" },
+    { "id": 9, "name": "Emma Watson", "feedback": "A truly professional experience.", "avatar": "https://i.pravatar.cc/150?u=9" },
+    { "id": 10, "name": "Robert B.", "feedback": "Great community and great plans.", "avatar": "https://i.pravatar.cc/150?u=10" }
+  ]
+},
+
+"transactions": {
+  "deposits": [
+    { "amount": "$500.00 USD", "date": "14 Oct 2025", "gateway": "RazorPay" },
+    { "amount": "$500.00 USD", "date": "14 Oct 2025", "gateway": "RazorPay" },
+    { "amount": "$2,000.00 USD", "date": "10 Sep 2025", "gateway": "RazorPay" },
+    { "amount": "$1,000.00 USD", "date": "10 Sep 2025", "gateway": "RazorPay" },
+    { "amount": "$1,000.00 USD", "date": "17 Aug 2025", "gateway": "RazorPay" }
+  ],
+  "withdraws": [
+    { "name": "User Name", "amount": "$10.00 USD", "date": "21 Dec 2025" },
+    { "name": "Hadi Sadi", "amount": "$52.00 USD", "date": "21 Dec 2025" },
+    { "name": "Hadi Sadi", "amount": "$10.00 USD", "date": "17 Sep 2025" },
+    { "name": "Pradeep Pandey", "amount": "$10.00 USD", "date": "17 Sep 2025" },
+    { "name": "User Name", "amount": "$100.00 USD", "date": "31 Aug 2025" }
+  ]
+},
+"newsletter": {
+  "title": "Subscribe Our Newsletter To Get The News And Updates First",
+  "placeholder": "Your Email Address",
+  "bgImage": "https://images.unsplash.com/photo-1557804506-669a67965ba0?q=80&w=2074&auto=format&fit=crop"
+},
+"faqs": {
+  "title": "Faqs",
+  "subtitle": "Find answers to common questions and get quick support with our faqs.",
+  "items": [
+    { "id": 1, "question": "What is Income 25 BD?", "answer": "Income 25 BD is a professional network marketing platform designed to help you grow your business effortlessly with secure tools." },
+    { "id": 2, "question": "Is my data secure here?", "answer": "Yes, we use advanced encryption and 2FA security to ensure all your data and transactions are completely protected." },
+    { "id": 3, "question": "How do I sign up?", "answer": "Simply click the Get Started button, fill in your details, and you're ready to explore our investment plans." },
+    { "id": 4, "question": "Can I track my earnings?", "answer": "Absolutely! Our 3D dashboard provides real-time tracking of your commissions, deposits, and withdrawals." },
+    { "id": 5, "question": "What payment methods are accepted?", "answer": "We accept various payment methods including RazorPay, Stripe, and E-pins for your convenience." },
+    { "id": 6, "question": "How do I get customer support?", "answer": "Our support team is available 24/7. You can contact us through the Contact page or our support email." }
+  ]
+},
+"cta": {
+  "title": "Get Started With Income 25 BD Today!",
+  "subtitle": "Register now to start your network marketing journey with Income 25 BD. Sign up, set up, and start earning today!",
+  "btnText": "JOIN NOW",
+  "bgImage": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=2070&auto=format&fit=crop"
+},
+"news": {
+  "title": "Latest News",
+  "subtitle": "Stay updated with the latest news, trends, and updates in network marketing and Income 25 BD.",
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Strategies to Succeed in Network Marketing with Income 25 BD",
+      "date": "24 FEB 2025",
+      "description": "Network marketing is a rapidly growing industry, with millions of marketers and customers...",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "id": 2,
+      "title": "How Referral Systems Boost Your Earnings in Modern Business",
+      "date": "24 FEB 2025",
+      "description": "Network marketing is a rapidly growing industry, with millions of marketers and customers...",
+      "image": "https://i.ibb.co.com/mFv8TktZ/pexels-cottonbro-5054212.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Future of Network Marketing: Trends to Watch",
+      "date": "24 FEB 2025",
+      "description": "Network marketing is a rapidly growing industry, with millions of marketers and customers...",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2026&auto=format&fit=crop"
+    }
+  ]
+},
+"blogPage": {
+  "title": "Blog",
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Strategies to Succeed in Network Marketing",
+      "date": "07 NOV 2025",
+      "desc": "Network marketing is a rapidly growing industry, with millions of marketers...",
+      "img": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=2070"
+    },
+    {
+      "id": 2,
+      "title": "How Referral Systems Boost Your Earnings",
+      "date": "08 NOV 2025",
+      "desc": "Referral systems are the backbone of modern networking businesses...",
+      "img": "https://i.ibb.co.com/mFv8TktZ/pexels-cottonbro-5054212.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Future of Network Marketing Trends",
+      "date": "09 NOV 2025",
+      "desc": "Looking ahead, the landscape of networking is changing with technology...",
+      "img": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2026"
+    },
+    {
+      "id": 4,
+      "title": "Income 25 BD is the Best For Your MLM",
+      "date": "10 NOV 2025",
+      "desc": "Why professionals choose our platform for their business growth...",
+      "img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=2071"
+    },
+    {
+      "id": 5,
+      "title": "Step-by-Step Guide to Setting Up Profile",
+      "date": "11 NOV 2025",
+      "desc": "Getting started is easy with our detailed profile setup guide...",
+      "img": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=2070"
+    },
+    {
+      "id": 6,
+      "title": "How to Maximize Your Earnings",
+      "date": "12 NOV 2025",
+      "desc": "Tips and tricks from top performers to scale your income effectively...",
+      "img": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?q=80&w=2071"
+    }
+  ]
+},
+"contact": {
+  "title": "Contact Us",
+  "subtitle": "Contact Us for Assistance",
+  "phone": "+ (001) 001 001",
+  "email": "support@income25bd.com",
+  "address": "North Reese Av, Fresno CA 937",
+  "btnText": "Send Message"
+}
+}
