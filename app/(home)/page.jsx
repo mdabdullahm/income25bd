@@ -6,7 +6,7 @@ import { useState } from "react";
 
 
 export default function Home() {
-  const { hero, statistics, plans, features, testimonials, transactions, newsletter, faqs, cta, news } = homeData;
+  const { hero, about, statistics, plans, features, testimonials, transactions, newsletter, faqs, cta, news } = homeData;
 
 
   const paths = [
@@ -60,10 +60,10 @@ export default function Home() {
             {hero.description}
           </p>
           <div className="flex flex-wrap gap-5 pt-4">
-            <Link href="/dashboard" className="bg-[#C9A24D] text-[#0F2A1D] px-10 py-4 rounded-xl font-black hover:bg-[#F5F227] transition-all shadow-2xl shadow-orange-500/20 uppercase text-xs tracking-[2px] active:scale-95">
+            <Link href={hero.btn2Link} className="bg-[#C9A24D] text-[#0F2A1D] px-10 py-4 rounded-xl font-black hover:bg-[#F5F227] transition-all shadow-2xl shadow-orange-500/20 uppercase text-xs tracking-[2px] active:scale-95">
               {hero.btn2}
             </Link>
-            <Link href="/signup" className="bg-white/5 border border-white/10 px-10 py-4 rounded-xl font-bold hover:bg-white/10 transition-all uppercase text-xs tracking-[2px] backdrop-blur-md">
+            <Link href={hero.btn1Link} className="bg-white/5 border border-white/10 px-10 py-4 rounded-xl font-bold hover:bg-white/10 transition-all uppercase text-xs tracking-[2px] backdrop-blur-md">
               {hero.btn1}
             </Link>
           </div>
@@ -119,7 +119,7 @@ export default function Home() {
             <div className="pt-6">
               {/* ৩ডি বাটন ইফেক্ট */}
               <Link
-                href="/dashboard"
+                href={about.btnLink}
                 className="relative inline-block px-10 py-4 bg-[#C9A24D] text-[#0F2A1D] font-black rounded-xl 
              uppercase text-sm tracking-[2px] transition-all duration-100
              /* ৩ডি বর্ডার কালার মেইন কালারের চেয়ে একটু ডার্ক দেওয়া হয়েছে */
@@ -765,7 +765,7 @@ export default function Home() {
                   </p>
 
                   {/* Read More লিঙ্ক */}
-                  <Link href={`/blog/${blog.id}`} className="inline-flex items-center gap-2 text-[#C9A24D] font-bold text-xs uppercase tracking-[2px] group-hover:gap-4 transition-all">
+                  <Link href="/blog" className="inline-flex items-center gap-2 text-[#C9A24D] font-bold text-xs uppercase tracking-[2px] group-hover:gap-4 transition-all">
                     Read More
                     <span>→</span>
                   </Link>

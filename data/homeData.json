@@ -4,7 +4,9 @@
     "title2": "not complicated anymore",
     "description": "Multilevel Matrix business effortlessly with our all-in-one, easy-to-setup solution for marketers.",
     "btn1": "GET STARTED",
+    "btn1Link": "/signup",
     "btn2": "INVEST NOW",
+    "btn2Link": "/plan",
     "floatImage1": "https://i.ibb.co/DfQJBvdF/29932.jpg",
     "floatImage2": "https://i.ibb.co.com/wNjgG8H8/1985.jpg"
   },
@@ -13,6 +15,7 @@
     "subtitle": "Invest smartly and grow your business with Income 25 BD.",
     "description": "Start your network marketing journey with Income 25 BD. Our all-in-one platform offers easy setup, referral systems, and secure payment options to help your business thrive and scale effortlessly.",
     "btnText": "INVEST NOW",
+    "btnLink": "/plan",
     "image": "https://i.ibb.co.com/Zz22549x/2130.jpg"
   },
   "statistics": {
@@ -204,6 +207,7 @@
   "title": "Get Started With Income 25 BD Today!",
   "subtitle": "Register now to start your network marketing journey with Income 25 BD. Sign up, set up, and start earning today!",
   "btnText": "JOIN NOW",
+  "btnLink": "/signup",
   "bgImage": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=2070&auto=format&fit=crop"
 },
 "news": {
