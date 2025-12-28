@@ -19,7 +19,7 @@ const Navbar = () => {
           className="text-2xl font-black tracking-tighter text-white"
           style={{ textShadow: '0px 4px 12px rgba(255, 153, 0, 0.6)' }}
         >
-          INCOME<span className="text-[#F5F227]">25 BD</span>
+          INCOME<span className="text-[#F5F227]"> 25 BD</span>
         </div>
       </div>
 
@@ -29,6 +29,7 @@ const Navbar = () => {
         <Link href="/about" className="hover:text-orange-500 transition">About</Link>
         <Link href="/how-it-works" className="hover:text-orange-500 transition">How It Works</Link>
         <Link href="/plan" className="hover:text-orange-500 transition">Plan</Link>
+        <Link href="/shop" className="hover:text-orange-500 transition">Shop</Link>
         <Link href="/blog" className="hover:text-orange-500 transition">Blog</Link>
         <Link href="/contact" className="hover:text-orange-500 transition">Contact</Link>
       </div>
