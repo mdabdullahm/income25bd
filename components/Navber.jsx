@@ -81,7 +81,7 @@ const Navbar = () => {
               {link.name}
             </Link>
           ))}
-          {/* মোবাইলে ড্যাশবোর্ড বাটন মেনুর ভেতরেও থাকবে */}
+          {/* mobil dashbord btn mnu */}
           <Link href="/userdashboard" className="w-full pt-4 border-t border-white/5 sm:hidden">
             <button className="w-full bg-[#C9A24D] text-[#0F2A1D] py-4 rounded-xl font-black uppercase text-xs tracking-[3px]">
               Dashboard
